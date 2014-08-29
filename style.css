@@ -1,0 +1,7 @@
+body, .wrapper{
+	width: 100%;
+}
+header, #content, footer{
+		margin:0 auto;
+width:990px;
+}
